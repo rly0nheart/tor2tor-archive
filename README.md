@@ -1,3 +1,5 @@
+![banner](https://github.com/rly0nheart/tor2tor-db/assets/74001397/22319791-daab-41ba-96da-b7bd1a3e6c0f)
+
 Onions captured with **Tor2Tor**
 
 # Note ⚠️
